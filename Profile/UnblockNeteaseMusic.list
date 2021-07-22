@@ -2,7 +2,7 @@
 🎧𝐌𝐮𝐬𝐢𝐜𝟐 = http,146.56.117.163,12345
 🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http,106.52.127.72,19951
 🎧𝐌𝐮𝐬𝐢𝐜𝟒 = http,146.56.118.114,12345
-🎧𝐌𝐮𝐬𝐢𝐜𝟓 = http,music.griouges.cn,39000
+🎧𝐌𝐮𝐬𝐢𝐜𝟓 = http,146.56.117.163,19950
 🎧𝐌𝐮𝐬𝐢𝐜𝟔 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_vrfn"
 🎧𝐌𝐮𝐬𝐢𝐜𝟕 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_vrfn"
 vmess = 146.56.117.163:23456, method=chacha20-ietf-poly1305, password=065813ec-84cb-436c-ae6a-e3ec698dbc79, fast-open=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟴
